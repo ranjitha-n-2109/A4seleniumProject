@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="6" total="10" passed="4" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[le_04CaseExecution successfull]]>
+    </line>
+    <line>
+      <![CDATA[le_04CaseExecution successfull]]>
+    </line>
+    <line>
+      <![CDATA[le_01CaseExecution successfull]]>
+    </line>
+    <line>
+      <![CDATA[le_01CaseExecution successfull]]>
+    </line>
+    <line>
+      <![CDATA[le_02CaseExecution successfull]]>
+    </line>
+    <line>
+      <![CDATA[le_02CaseExecution successfull]]>
+    </line>
+    <line>
+      <![CDATA[le_03CaseExecution successfull]]>
+    </line>
+    <line>
+      <![CDATA[le_03CaseExecution successfull]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-08-30T16:03:30 IST" name="Suite" finished-at="2024-08-30T16:04:52 IST" duration-ms="81496">
+    <groups>
+    </groups>
+    <test started-at="2024-08-30T16:03:30 IST" name="Test" finished-at="2024-08-30T16:04:52 IST" duration-ms="81496">
+      <class name="tc_Repository.LE_04">
+        <test-method is-config="true" signature="createConnection()[pri:0, instance:tc_Repository.LE_04@229c6181]" started-at="2024-08-30T16:03:30 IST" name="createConnection" finished-at="2024-08-30T16:03:30 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createConnection -->
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:tc_Repository.LE_04@229c6181]" started-at="2024-08-30T16:03:30 IST" name="launchBrowser" finished-at="2024-08-30T16:03:33 IST" duration-ms="2614" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="loginApp()[pri:0, instance:tc_Repository.LE_04@229c6181]" started-at="2024-08-30T16:03:33 IST" name="loginApp" finished-at="2024-08-30T16:03:38 IST" duration-ms="5454" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginApp -->
+        <test-method signature="le_04Case()[pri:0, instance:tc_Repository.LE_04@229c6181]" started-at="2024-08-30T16:03:38 IST" name="le_04Case" finished-at="2024-08-30T16:03:55 IST" duration-ms="16452" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[le_04CaseExecution successfull]]>
+            </line>
+            <line>
+              <![CDATA[le_04CaseExecution successfull]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- le_04Case -->
+        <test-method is-config="true" signature="logoutApp()[pri:0, instance:tc_Repository.LE_04@229c6181]" started-at="2024-08-30T16:03:55 IST" name="logoutApp" finished-at="2024-08-30T16:03:58 IST" duration-ms="3304" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutApp -->
+        <test-method is-config="true" signature="closeApp()[pri:0, instance:tc_Repository.LE_04@229c6181]" started-at="2024-08-30T16:03:58 IST" name="closeApp" finished-at="2024-08-30T16:03:58 IST" duration-ms="242" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+        <test-method is-config="true" signature="closeConnection()[pri:0, instance:tc_Repository.LE_04@229c6181]" started-at="2024-08-30T16:04:52 IST" name="closeConnection" finished-at="2024-08-30T16:04:52 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeConnection -->
+      </class> <!-- tc_Repository.LE_04 -->
+      <class name="tc_Repository.LE_02">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:tc_Repository.LE_02@6340e5f0]" started-at="2024-08-30T16:04:14 IST" name="launchBrowser" finished-at="2024-08-30T16:04:16 IST" duration-ms="1847" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="loginApp()[pri:0, instance:tc_Repository.LE_02@6340e5f0]" started-at="2024-08-30T16:04:16 IST" name="loginApp" finished-at="2024-08-30T16:04:18 IST" duration-ms="1939" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginApp -->
+        <test-method signature="le_02Case()[pri:0, instance:tc_Repository.LE_02@6340e5f0]" started-at="2024-08-30T16:04:18 IST" name="le_02Case" finished-at="2024-08-30T16:04:27 IST" duration-ms="9375" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[le_02CaseExecution successfull]]>
+            </line>
+            <line>
+              <![CDATA[le_02CaseExecution successfull]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- le_02Case -->
+        <test-method is-config="true" signature="logoutApp()[pri:0, instance:tc_Repository.LE_02@6340e5f0]" started-at="2024-08-30T16:04:27 IST" name="logoutApp" finished-at="2024-08-30T16:04:30 IST" duration-ms="3280" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutApp -->
+        <test-method is-config="true" signature="closeApp()[pri:0, instance:tc_Repository.LE_02@6340e5f0]" started-at="2024-08-30T16:04:30 IST" name="closeApp" finished-at="2024-08-30T16:04:31 IST" duration-ms="1144" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+      </class> <!-- tc_Repository.LE_02 -->
+      <class name="tc_Repository.LE_03">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:tc_Repository.LE_03@45099dd3]" started-at="2024-08-30T16:04:31 IST" name="launchBrowser" finished-at="2024-08-30T16:04:33 IST" duration-ms="1717" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="loginApp()[pri:0, instance:tc_Repository.LE_03@45099dd3]" started-at="2024-08-30T16:04:33 IST" name="loginApp" finished-at="2024-08-30T16:04:40 IST" duration-ms="6615" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginApp -->
+        <test-method signature="le_03Case()[pri:0, instance:tc_Repository.LE_03@45099dd3]" started-at="2024-08-30T16:04:40 IST" name="le_03Case" finished-at="2024-08-30T16:04:48 IST" duration-ms="8368" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[le_03CaseExecution successfull]]>
+            </line>
+            <line>
+              <![CDATA[le_03CaseExecution successfull]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- le_03Case -->
+        <test-method is-config="true" signature="logoutApp()[pri:0, instance:tc_Repository.LE_03@45099dd3]" started-at="2024-08-30T16:04:48 IST" name="logoutApp" finished-at="2024-08-30T16:04:51 IST" duration-ms="3296" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutApp -->
+        <test-method is-config="true" signature="closeApp()[pri:0, instance:tc_Repository.LE_03@45099dd3]" started-at="2024-08-30T16:04:51 IST" name="closeApp" finished-at="2024-08-30T16:04:52 IST" duration-ms="242" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+      </class> <!-- tc_Repository.LE_03 -->
+      <class name="tc_Repository.LE_01">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:tc_Repository.LE_01@2794eab6]" started-at="2024-08-30T16:03:58 IST" name="launchBrowser" finished-at="2024-08-30T16:04:00 IST" duration-ms="1907" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="loginApp()[pri:0, instance:tc_Repository.LE_01@2794eab6]" started-at="2024-08-30T16:04:00 IST" name="loginApp" finished-at="2024-08-30T16:04:02 IST" duration-ms="2001" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginApp -->
+        <test-method signature="le_01Case()[pri:0, instance:tc_Repository.LE_01@2794eab6]" started-at="2024-08-30T16:04:02 IST" name="le_01Case" finished-at="2024-08-30T16:04:10 IST" duration-ms="8161" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[le_01CaseExecution successfull]]>
+            </line>
+            <line>
+              <![CDATA[le_01CaseExecution successfull]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- le_01Case -->
+        <test-method is-config="true" signature="logoutApp()[pri:0, instance:tc_Repository.LE_01@2794eab6]" started-at="2024-08-30T16:04:10 IST" name="logoutApp" finished-at="2024-08-30T16:04:14 IST" duration-ms="3278" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutApp -->
+        <test-method is-config="true" signature="closeApp()[pri:0, instance:tc_Repository.LE_01@2794eab6]" started-at="2024-08-30T16:04:14 IST" name="closeApp" finished-at="2024-08-30T16:04:14 IST" duration-ms="218" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+      </class> <!-- tc_Repository.LE_01 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
